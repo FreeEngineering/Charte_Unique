@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Charte unique"
-  text: "La charte unique propose de standardiser les description et représentation des ouvrages et installations techniques."
+  text: "Pour l'ingénierie"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -20,6 +20,8 @@ features:
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature D
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

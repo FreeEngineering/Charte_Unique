@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Charte unique",
-  description: "Pour parler la même ingénierie .",
+  description: "La charte unique propose de standardiser les description et représentation des ouvrages et installations techniques.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/FreeEngineering/Charte_Unique' }
     ]
   }
 })
