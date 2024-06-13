@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Charte unique"
-  text: "Pour l'ingénierie"
-  tagline: My great project tagline
+  text: "de l'ingénierie"
+  tagline: Pour un langage commun entre les ingénieurs de la construction
   actions:
     - theme: brand
       text: Markdown Examples
