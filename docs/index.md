@@ -8,8 +8,8 @@ hero:
   tagline: Pour un langage commun entre les ingénieurs de la construction
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Cartouche
+      link: /cartouche
     - theme: alt
       text: API Examples
       link: /api-examples
