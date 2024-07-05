@@ -25,4 +25,5 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/FreeEngineering/Charte_Unique' }
     ]
   }
+  base: "/Charte_Unique"
 })
