@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Charte unique"
   text: "de l'ingénierie"
-  tagline: Pour un langage commun entre les ingénieurs de la construction
+  tagline: Pour un langage commun entre les professionnels de la construction
   actions:
     - theme: brand
       text: Cartouche

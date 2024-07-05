@@ -8,16 +8,16 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/Charte_Unique/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Home', link: '/' },
+      { text: 'Charte', link: '/cartouche' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Charte',
         items: [
           { text: 'Cartouche', link: '/cartouche' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+         // { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
