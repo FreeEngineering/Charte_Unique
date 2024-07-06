@@ -10,18 +10,18 @@ hero:
     - theme: brand
       text: Cartouche
       link: /cartouche
-    - theme: alt
-      text: API Examples
-      link: 
+#    - theme: alt
+#      text: API Examples
+#      link: 
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature D
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Langage commun
+    details: Une représentation uniformisée des éléments
+#  - title: Feature B
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - title: Simple d'utilisation
+#    details: Libre et Open Source
+  - title: Libre et Open Source
+    details: L'ensemble de la documentation est sous licence GFDL v1.3
 ---
 
