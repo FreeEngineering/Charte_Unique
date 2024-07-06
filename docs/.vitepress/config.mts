@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Charte unique",
+  title: "Free Engineering",
   description: "La charte unique propose de standardiser les descriptions et représentations des ouvrages et installations techniques.",
   base: "/Charte_Unique/",
   themeConfig: {
