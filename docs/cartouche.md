@@ -6,4 +6,4 @@
 
 ## avec mxGraph
 
-<DrawioViewer src="../drawings/Charte%20Unique_Cartouche%20de%20document.svg" />
+<DrawioViewer src="../diagrams/Charte%20Unique_Cartouche%20de%20document.drawio" />
