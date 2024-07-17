@@ -10,11 +10,5 @@ updates:
     schedule:
       interval: "weekly"
     allow:
-      - dependency-name: "../node_modules/vitepress"
-
-  - package-ecosystem: "npm"
-    directory: "../node_modules/mxgraph"
-    schedule:
-      interval: "weekly"
-    allow:
+      - dependency-name: "vitepress"
       - dependency-name: "mxgraph"
